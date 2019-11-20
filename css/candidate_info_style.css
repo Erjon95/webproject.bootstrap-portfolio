@@ -1,0 +1,104 @@
+body {
+  background-color: black;
+} 
+
+.pic{
+	width: 50%;
+	height: 200%;
+}
+
+.name_and_title{
+	position: absolute;
+	top: 0px;
+	left: 250px;
+}
+
+#name{
+	color: white;
+}
+
+#title{
+	color: blue;
+}
+
+.info h3{
+	text-align: right;
+	position: absolute;
+	top: 0px;
+	left: 520px;
+	color: white;
+	
+}
+
+.info_name h3{
+	position: absolute;
+	top: 0px;
+}
+
+.address h3{
+	position: absolute;
+	top: 80px;
+}
+
+.date_of_birth h3{
+	position: absolute;
+	top: 40px;
+}
+
+.phone h3{
+	position: absolute;
+	top: 120px;
+}
+
+.email h3{
+	position: absolute;
+	top: 155px;
+}
+
+.website h3{
+	position: absolute;
+	top: 183px;
+}
+
+.actual_info{
+	position: absolute;
+	top: 0px;
+	left: 630px;
+	color: blue;
+}
+
+#actual_birthdate{
+	position: absolute;
+	top: 30px;
+}
+
+#actual_address{
+	position: absolute;
+	top: 60px;
+}
+
+.actual_phone h3{
+	position: absolute;
+	top: 120px;
+}
+
+.actual_email h3{
+	position: absolute;
+	top: 150px;
+}
+
+.actual_website h3{
+	position: absolute;
+	top: 180px;
+}
+
+.summary{
+	position: absolute;
+	top: 160px;
+	color: blue;
+}  
+
+#objective p{
+	position: absolute;
+	left: 300px;
+}
