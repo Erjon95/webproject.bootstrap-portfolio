@@ -72,6 +72,11 @@ body {
 	top: 30px;
 }
 
+.pic img{
+	width: 200px;
+	height: 200px;
+}
+
 #actual_address{
 	position: absolute;
 	top: 60px;
@@ -94,7 +99,7 @@ body {
 
 .summary{
 	position: absolute;
-	top: 160px;
+	top: 220px;
 	color: blue;
 }  
 
