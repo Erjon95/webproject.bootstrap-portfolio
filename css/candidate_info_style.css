@@ -2,8 +2,9 @@ body {
   background-color: black;
 } 
 
-.pic{
-	width: 50%;
+.pic img{
+	border-radius: 25px;
+	width: 10%;
 	height: 200%;
 }
 
